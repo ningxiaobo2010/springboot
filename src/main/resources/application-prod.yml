@@ -1,0 +1,10 @@
+#配置端口
+server:
+    port: 8081
+
+#配置用户信息
+user:
+    name: 王五
+    age: 9
+    sex: 男
+#info: "name: ${name}, age: ${age}, sex: ${sex}"
